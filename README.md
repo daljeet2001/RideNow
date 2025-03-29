@@ -1,6 +1,6 @@
 # RideNow
 
-This project is an RideNow application built with a modern tech stack. The frontend is developed using React and Tailwind CSS, while the backend is powered by Node.js, Express, and MongoDB. The application is designed with a microservices architecture, utilizing RabbitMQ for inter-service communication and WebSockets for real-time communication between the server and clients.
+RideNow is a real-time ride-hailing web application that allows users to seamlessly book rides, connect with nearby drivers, and track their journey from start to finish. The frontend is developed using React and Tailwind CSS, while the backend is powered by Node.js, Express, and MongoDB. The application is designed with a microservices architecture, utilizing RabbitMQ for inter-service communication and WebSockets for real-time communication between the server and clients.
 
 ## Frontend
 
